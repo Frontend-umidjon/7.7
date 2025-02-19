@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+#admin-sidebar .active{
+    background: dodgerblue;
+}
+
+#group-tab .active{
+    color: dodgerblue ;
+    text-decoration: underline;
+}
